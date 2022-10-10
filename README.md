@@ -1,4 +1,4 @@
-- Hi, I’m @IgorLiovin105 I'm 18 and I live in Omsk
+- Hi, I’m @IgorLiovin105 I'm 19 and I live in Omsk
 - I’m interested in web development, music and sport
-- I’m currently learning HTML, CSS(SCSS), JavaScript
+- I’m currently learning HTML, CSS(SCSS), JavaScript and React
 - You can reach me in VK: https://vk.com/igorlyovin105
