@@ -2,4 +2,4 @@
 - I’m interested in web development, music and sport
 - I work in company campusagro.com on web developer position
 - I’m currently learning HTML, CSS, JS, React, Vue 3, PHP and Laravel
-- You can reach me in VK: https://vk.com/igorlyovin105
+- You can reach me in VK: https://vk.com/igorliovin105
