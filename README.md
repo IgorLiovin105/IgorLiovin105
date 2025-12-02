@@ -1,4 +1,4 @@
-- Hi, I’m @IgorLiovin105 I'm 21 and I live in Omsk
+- Hi, I’m @IgorLiovin105 I'm 22 and I live in Omsk
 - I’m interested in web development, music and sport
 - I work in company campusagro.com on web developer position
 - I’m currently learning HTML, CSS, JS, React, Vue 3, PHP and Laravel
