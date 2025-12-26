@@ -1,5 +1,5 @@
 - Hi, I’m @IgorLiovin105 I'm 22 and I live in Omsk
 - I’m interested in web development, music and sport
-- I work in company campusagro.com on web developer position
-- I’m currently learning HTML, CSS, JS, React, Vue 3, PHP and Laravel
+- I work in company Campus Agro on web developer position
+- I’m currently developing web apps in Vue 3, Nuxt 4, PHP 7/8 and Laravel
 - You can reach me in VK: https://vk.com/igorliovin105
